@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "firestation.url",
+      "type": "java.lang.String",
+      "description": "firestation url"
+    }
+  ]
+}
